@@ -1,4 +1,3 @@
-
 # weird-list-huehuebr
 A lista mais bizarra de huehuebrs e seus mitos já criaram.
 
@@ -10,6 +9,7 @@ Link | Descição
 [Gemidão do Zap](https://github.com/haskellcamargo/gemidao-do-zap) | O Gemidão do Zap é uma aplicação escrita sobre o NodeJS que permite que você envie o gemidão do zap para seus amigos via chamada telefônica e simulando o número telefônico de pessoas conhecidas. É a mais conhecida aplicação GaaS (Gemidão as a Service) do mercado.
 [Safadometro](https://github.com/ythecombinator/safadometro) | Sometimes, you want to know how safad(o/a) - a Brazilian Portuguese word for naughty - someone is. A very popular Brazilian musician desbribes himself as being 99% an angelical and perfect person; but the other 1% is naughty - as you can see in the lyrics.
 [Birl](https://birl-language.github.io/) | O BIRL (Bambam's "It's show time" Recursive Language) é a linguagem de programação mais treze já inventada.
+[Piroca](https://github.com/LulzAugusto/piroca) | Brazilians tend to give way too many names to peepee. This is an effort on listing them all.
 
 ### gringos
 
